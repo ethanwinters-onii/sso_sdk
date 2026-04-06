@@ -21,6 +21,7 @@ Chạy script sau để build `xcframework`:
 
 ```bash
 sh ./build_xcframework.sh
+```
 
 ## 3. Run Demo
 
